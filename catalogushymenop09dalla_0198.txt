@@ -1,0 +1,264 @@
+180
+
+sublaevis 32.
+sublevis 32.
+subpetiolatus 60.
+subsericeus 134.
+substricta 14.
+substrictus 14.
+subtilis 117.
+succinctus 99.
+suecicus 99.
+sulcata 166.
+sulcatus 99, 134.
+sulcigastra 32.
+sulfureus 99.
+sulfuripes 99.
+sulphurea 157.
+sulphureus 99.
+sulphuripes 99.
+sumatrae 121, 134.
+sumatrensis 166.
+
+sumiehrastii 32, 99.
+
+superbum 48.
+superbus 99.
+surinama 160, 161.
+
+surinamensis 12,16 Ι ,
+
+166.
+sutterianus 99.
+Sybillina 113.
+sycophanta 166.
+sylvatica 65.
+sylveibae 166.
+sylveirae 99.
+sylvestris 156.
+symmorpha 7, 109.
+Symmorphus 50.
+symmorphus 109.
+Synagris 34.
+
+synagroides 48, 99,
+
+100.
+
+Synoeca 60.
+synoeeus 134.
+
+'rabida 32, 166,167.
+
+tabidus 32.
+tachkendensis 100.
+tacubayae 100.
+tahitense 48.
+tahitensis 157.
+tamarinus 100.
+tamula 132.
+
+taos 1110.
+tapiensis 100.
+
+Register.
+
+tasabucensis 100.
+tarsalis 37.
+tarsata 116.
+tarsatus 100, 116.
+tasmaniensis 100,
+112, 135.
+Tatua 167.
+tatua 167.
+taurica 18.
+taurinus 18.
+tecta 100,
+tectus 100.
+tegularis 100.
+tenebricosa 135.
+tenebricosus 135.
+tenebrionis 140.
+tenuis 32.
+tepanecus 100.
+tepida 135.
+tepidus 135.
+terricola 100.
+tertius 100.
+tesserazona 157.
+testacea 161, 163.
+testaceus 60.
+tetrameria 37.
+texanus 4, 100, 108,
+135.
+texensis 101.
+thalassaretos 101.
+thoracica 28, 32.
+thoracieus 32.
+tibialis 101, 157.
+tigris 101.
+timidus 101.
+tinctipennis 101.
+tinctor 26, 27.
+tinctorius 27.
+tinctus 101.
+tinniens 101.
+tisiphone 101.
+toas 100.
+tolteea 109.
+toltecus 14, 101.
+tomentosa 121.
+tomentosus 101.
+torrida 121.
+torridus 101.
+totonacus 32, 101.
+transitorius 102.
+translucida 135.
+
+translucidus 135.
+transversa 42.
+
+transversesignatus
+1 26. '
+
+transversum 42.
+triangulum 102.
+tricinctus 87.
+
+tricolor 2, 32, 116,
+
+126,135,151
+tridens 155.
+trifasciata 87, 157.
+trifasciatus 87, 91.
+triloba 102.
+trilobus 102.
+trimarginatus 102.
+Trimeria 5.
+trinacriae 102.
+triphaleratus 87.
+
+tripunctata 32, 102,
+
+157.
+
+tripunetatus 32, 102.
+
+tristis 102.
+tristrigata 157.
+troglodytes 103.
+tropica 140.
+tropicalis 32, 103.
+tropidia 37.
+truncatus 103,
+
+tuberculatus103‚1 12.
+
+tuberculifer 3.
+
+tuberculiventris 103.
+
+tuberculocephalus
+103.
+tuberculoceps 103.
+tubulifer 14.
+tunetanus 94.
+turbulenta 1 16.
+turbulentus 116.
+turca 103.
+tureica 151.
+turgida 116.
+turgidus 1 16.
+turpis 103.
+turrimarius 28.
+tyrannica 157.
+
+Ultramarina 161.
+Ι uncinata 41, 103.
+ι uncinatus 103.
+Ι nudata 130.
+1 unguiculo 33.
+
+unguiculata 32.
+unguicul'ua 33.
+ungulatis 90. ·
+unicolor 113, 121,
+
+125, 157.
+unifasciata 140.
+unifmiatus 103, 112.
+unipunetatus 108.
+urceolica 135.
+urceolieus 135.
+uruguyensis 33.
+urvillei 24.
+
+vagabundus 103.
+
+vagus 103.
+
+valida 126.
+
+varia 135.
+
+variabilis41,121‚135.
+
+variatus 135.
+
+variegata 103, 117,
+121, 135.
+
+variegatus 14,72, 103,
+104, 135.
+
+variolosus 61.
+
+varius 135.
+
+velox 93, 157.
+
+velutina 121, 157,
+170.
+
+ventralis 100.
+
+ventricosa 33.
+
+ventricosus 33.
+
+venusta 2, 32.
+
+vernalis 104.
+
+verreauxii 15.
+
+versicolor 17, 124,
+135,136.
+
+verticalis 33.
+
+verus 104.
+
+Vespa 5,9, 15, 16, 34,
+40‚41‚42,49‚5Q
+105‚109‚114‚117,
+12ι,122,136,161,
+167, 169.
+
+vespiceps 167.
+
+vespiformis 2, 3, 4,
+5, 6, 104.
+
+Vespinae 113.
+
+vespoides 4.
+
+Vespula 136.
+
+vestitus 104.
+
+viatica 29.
+
+es&
+
